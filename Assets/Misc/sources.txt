@@ -1,0 +1,15 @@
+fonts: 
+	https://www.dafont.com/i-pixel-u.font
+	https://www.dafont.com/mushroom.font
+	https://www.dafont.com/ice-age-font.font
+	https://www.dafont.com/depixel.font
+typewriter effect: https://www.youtube.com/watch?v=U85gbZY6oo8
+music:
+	https://opengameart.org/content/hungry-dino-9-chiptune-tracks-10-sfx
+	https://opengameart.org/content/frozen-jam-seamless-loop
+	https://opengameart.org/content/8-bit-chiptune-moonlight
+sfx:
+	https://opengameart.org/content/hungry-dino-9-chiptune-tracks-10-sfx
+background images:
+	https://opengameart.org/content/background-2
+
